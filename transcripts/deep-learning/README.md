@@ -9,6 +9,14 @@ These files contain text extracted from the NotebookLM source viewer.
 - Source 25 is the YouTube playlist page text, not a lecture transcript.
 - Source 26 is the PyTorch Tutorial transcript.
 
+## Proofread transcripts
+
+Proofread editions preserve the lecture order and substantive Q&A while correcting ASR errors, technical notation, and speaker labels. Editorial notes identify factual issues in the spoken lecture instead of silently changing them.
+
+| Lecture | Raw ASR | Proofread transcript | Validation sources |
+| ------- | ------- | -------------------- | ------------------ |
+| Lec 12. Representation Learning: Similarity-Based | [raw](./source-13-lec-12-representation-learning-similarity-based.md) | [proofread](./proofread/source-13-lec-12-representation-learning-similarity-based.md) | [MIT OCW video](https://ocw.mit.edu/courses/6-7960-deep-learning-fall-2024/resources/mit6_7960f24_lec12_mp4/), [speaker transcript](https://ocw.mit.edu/courses/6-7960-deep-learning-fall-2024/1l8PjEaaBW_2_khhxnZawcrBEZsfbuLO2_transcript.pdf), [slides](https://ocw.mit.edu/courses/6-7960-deep-learning-fall-2024/mit6_7960_f24_lec12.pdf), [Xing et al.](https://papers.nips.cc/paper_files/paper/2002/hash/c3e4035af2a1cde9f21e1ae1951ac80b-Abstract.html), [SimCLR](https://proceedings.mlr.press/v119/chen20j.html), [Wang–Isola](https://proceedings.mlr.press/v119/wang20k.html), [MoCo](https://arxiv.org/abs/1911.05722), [iNaturalist 2021](https://openaccess.thecvf.com/content/CVPR2021/html/Van_Horn_Benchmarking_Representation_Learning_for_Natural_World_Image_Collections_CVPR_2021_paper.html), [Cole et al.](https://openaccess.thecvf.com/content/CVPR2022/html/Cole_When_Does_Contrastive_Visual_Representation_Learning_Work_CVPR_2022_paper.html) |
+
 | # | Source | Transcript | Characters |
 | - | ------ | ---------- | ---------- |
 | 1 | Lec 01. Introduction to Deep Learning | [source-01-lec-01-introduction-to-deep-learning.md](./source-01-lec-01-introduction-to-deep-learning.md) | 58201 |
